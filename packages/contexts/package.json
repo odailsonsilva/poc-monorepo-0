@@ -1,0 +1,25 @@
+{
+  "name": "@helius/contexts",
+  "version": "1.0.0",
+  "main": "./src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@helius/eslint-config": "*",
+    "@helius/typescript-config": "*",
+    "@turbo/gen": "^1.12.4",
+    "@types/node": "^20.11.24",
+    "@types/react": "18.3.0",
+    "@types/react-dom": "18.3.1",
+    "typescript": "5.5.4"
+  }
+}
