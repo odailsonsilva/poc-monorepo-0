@@ -1,14 +1,6 @@
 {
-  "extends": "@helius/typescript-config/react-library.json",
-  "compilerOptions": {
-    "outDir": "dist",
-    "jsx": "react-jsx"
-  },
+  "extends": "@helius/typescript-config/react.json",
   "include": [
     "src"
-  ],
-  "exclude": [
-    "node_modules",
-    "dist"
   ]
 }
